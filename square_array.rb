@@ -9,7 +9,7 @@ def square_array(array)
   array_squared << i**2
 
   end
-  self
+  
 end
 
  #binding.pry
